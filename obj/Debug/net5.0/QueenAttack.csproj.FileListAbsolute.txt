@@ -1,0 +1,16 @@
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.csproj.AssemblyReference.cache
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.AssemblyInfo.cs
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.csproj.CoreCompileInputs.cache
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.exe
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.deps.json
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.runtimeconfig.json
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.runtimeconfig.dev.json
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.dll
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\ref\QueenAttack.dll
+C:\Users\Sploob\Desktop\queen-attack\bin\Debug\net5.0\QueenAttack.pdb
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.dll
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\ref\QueenAttack.dll
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.pdb
+C:\Users\Sploob\Desktop\queen-attack\obj\Debug\net5.0\QueenAttack.genruntimeconfig.cache
